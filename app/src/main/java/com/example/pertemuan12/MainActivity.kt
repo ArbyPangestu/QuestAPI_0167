@@ -33,3 +33,5 @@ class MainActivity : ComponentActivity() {
 fun DataSiswaApp(modifier: Modifier = Modifier) {
     Text(text = "Data Siswa", modifier = modifier)
 }
+
+// jangan lupa diuabah mainactivityny
